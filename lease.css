@@ -3,7 +3,7 @@
     margin: 50px auto;
     width: 800px;
     height: 900px;
-    grid-template-rows: 80px 680px 60px 80px;
+    grid-template-rows: 80px 660px 80px 80px;
 }
 
 img {
@@ -46,6 +46,8 @@ img {
 iframe {
     z-index: 999;
 }
+
+
 
 .heart {
     display: block;
