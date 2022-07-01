@@ -12,12 +12,12 @@ img {
     margin: 7px 10px 0 0;
 }
 
-.container>div>.lease {
+.container > div > .reels {
     font-size: 50px;
     line-height: 80px;
 }
 
-.lease+img {
+.reels+img {
     margin: 7px 10px 0 0;
 }
 
@@ -47,8 +47,6 @@ iframe {
     z-index: 999;
 }
 
-
-
 .heart {
     display: block;
     position: absolute;
@@ -66,7 +64,6 @@ iframe {
 .icon {
     position: relative;
 }
-
 
 .footer {
     display: flex;
